@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "name": "Iphone 14",
+      "desc": "Promax",
+      "image": "",
+      "categories": "Apple",
+      "price": "36000",
+      "id": 38
+    },
+    {
+      "name": "Iphone",
+      "desc": "JavaScript",
+      "image": "C:\\fakepath\\avata.jpg",
+      "categories": "Apple",
+      "price": "200",
+      "gallery": [
+        "https://res.cloudinary.com/dfs9nuwom/image/upload/v1677524408/ECMA/cj8sktck7okd0nbkkgtw.jpg"
+      ],
+      "id": 39
+    }
+  ]
+}
